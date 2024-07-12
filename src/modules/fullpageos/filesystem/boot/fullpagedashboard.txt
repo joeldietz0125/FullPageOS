@@ -1,1 +1,2 @@
-http://localhost/welcome
+http://www.cnn.com
+http://www.espn.com
